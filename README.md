@@ -1,2 +1,2 @@
 # git
-git notes
+Some notes about git.
