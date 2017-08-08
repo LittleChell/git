@@ -7,7 +7,7 @@
 
 ## 实践总结：
 * 实际开发很少使用这个指令， 因为git的可视化工具（如：sourceTree/TortoiseGit）显示的效果更好；（更加直观且不易出错）
-![git_diff截图](https://github.com/wteam-xq/testGit/blob/master/learn_log/log_img/git_diff_s1.png)
+![git_diff截图](https://github.com/LittleChell/git/tree/master/contents/img/git_diff_s1.png)
 
 ## git diff 常用指令：
 * git diff
@@ -26,4 +26,4 @@
 	* 对比分支A跟分支B的差异， 将列出所有文件以及改动细节， 所以显示内容会很多；
 
 ## 相关指令：
-* [git status](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_status.md) 查看当前代码状态指令： 这货显示的内容比我详细， 可惜比较难看懂；
+* [git status](https://github.com/LittleChell/git/tree/master/contents/git_status.md) 查看当前代码状态指令： 这货显示的内容比我详细， 可惜比较难看懂；

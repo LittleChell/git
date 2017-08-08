@@ -12,7 +12,7 @@
 * `git commit -m`
 	* Use the given <msg> as the commit message. If multiple -m options are given, their values are concatenated as separate paragraphs.
 	* 该指令将暂存区的改动放入本地仓库（当前分支），如果使用了多个“-m”则会将该提交分成多个段落显示；例如： 使用了`git commit -m "格式统一化" -m "多个注释会怎样？"` gitHub上会这样显示：
-	* ![多行-m的截图](https://github.com/wteam-xq/testGit/blob/master/learn_log/log_img/git_commit_s1.png)
+	* ![多行-m的截图](https://github.com/LittleChell/git/tree/master/contents/img/git_commit_s1.png)
 
 ## git commit 常用指令：
 * git commit -am "注释内容"
@@ -26,6 +26,6 @@
 	* 将 **暂存区** 内容再次提交到 **本地仓库** ，该改动会添加到前一次`commit`中(不产生新的`commit`)；指令执行完将进入 vi 编辑新commit注释界面；(执行该指令前注意先执行`git add -A`)
 
 ## 相关指令：
-* [git_status.md](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_status.md)  查看当前代码状态指令： 提交代码到**本地仓库**后， 用我可以查看有多少个commit等待提交到远程哦！
+* [git_status.md](https://github.com/LittleChell/git/tree/master/contents/git_status.md)  查看当前代码状态指令： 提交代码到**本地仓库**后， 用我可以查看有多少个commit等待提交到远程哦！
 
-* [git_push.md](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_push.md) 提交代码至远程仓库指令： `git commit`后， 接下来就是我`git push`出场了！
+* [git_push.md](https://github.com/LittleChell/git/tree/master/contents/git_push.md) 提交代码至远程仓库指令： `git commit`后， 接下来就是我`git push`出场了！

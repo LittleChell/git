@@ -10,7 +10,7 @@
 > Stash the changes in a dirty working directory away
 
 * **工作现场**独立存在于所有分支， 也就是一个git 项目中只有一个**工作现场**，即使这个项目中有N个分支；（所以如果想将A分支改动的代码切换到B分支，不妨试用git stash）
-* ![git_stash截图](https://github.com/wteam-xq/testGit/blob/master/learn_log/log_img/git_stash_s1.png)
+* ![git_stash截图](https://github.com/LittleChell/git/tree/master/contents/img/git_stash_s1.png)
 * 如果有**修改**的文件从**暂存区间**中放入**工作现场**（git stash）, 当再次从**工作现场**取出时（git stash pop）， 该修改的文件会变回在**工作区间**；(**新增**的文件则正常恢复到**暂存区间**)
 
 ## git stash 常用指令：
@@ -39,4 +39,4 @@
 
 
 ## 相关指令：
-* [git_status.md](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_status.md)  查看当前代码状态指令： 使用我这个指令，只是为了确认放入 **工作现场** 是否成功。
+* [git_status.md](https://github.com/LittleChell/git/tree/master/contents/git_status.md)  查看当前代码状态指令： 使用我这个指令，只是为了确认放入 **工作现场** 是否成功。

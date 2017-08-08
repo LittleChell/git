@@ -44,4 +44,4 @@
 
 
 ## 相关指令：
-* [git reset](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_reset.md) 代码撤销（回退）： 配合`git log`，我的回退实用性可以完爆`git checkout`;
+* [git reset](https://github.com/LittleChell/git/tree/master/contents/git_reset.md) 代码撤销（回退）： 配合`git log`，我的回退实用性可以完爆`git checkout`;

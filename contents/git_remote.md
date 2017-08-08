@@ -24,4 +24,4 @@
 	* 设置远程仓库地址(用于修改本地仓库关联的远程仓库地址)
 
 ## 相关指令：
-* [git config](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_config.md) 配置文件指令：这个指令， 我小弟！
+* [git config](https://github.com/LittleChell/git/tree/master/contents/git_config.md) 配置文件指令：这个指令， 我小弟！

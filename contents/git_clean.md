@@ -18,5 +18,5 @@
 	* 删除 文件 和 目录, 该指令很危险会将 .gitignore 配置的的文件也会被删除，慎用！
 
 ## 相关指令：
-* [git_status.md](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_status.md)  查看当前代码状态指令： 使用我这个指令，可以确认删除是否成功。
-* [git_rm.md](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_rm.md)  删除文件指令： 即使已经跟踪的文件、文件夹， 俺也能删除哦！
+* [git_status.md](https://github.com/LittleChell/git/tree/master/contents/git_status.md)  查看当前代码状态指令： 使用我这个指令，可以确认删除是否成功。
+* [git_rm.md](https://github.com/LittleChell/git/tree/master/contents/git_rm.md)  删除文件指令： 即使已经跟踪的文件、文件夹， 俺也能删除哦！

@@ -60,8 +60,8 @@ git branch --set-upstream-to=origin/remoteBranchName localBranchName
 * 切换到该新分支`git checkout branchName`查看代码， 就会发现该分支恢复了。
 
 ## 相关指令：
-* [git_checkout.md](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_checkout.md)  切换代码分支指令：使用git分支必定会用到我！
+* [git_checkout.md](https://github.com/LittleChell/git/tree/master/contents/git_checkout.md)  切换代码分支指令：使用git分支必定会用到我！
 
-* [git_merge.md](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_merge.md) 合并分支指令：注意我合并的是**本地分支** 代码;
+* [git_merge.md](https://github.com/LittleChell/git/tree/master/contents/git_merge.md) 合并分支指令：注意我合并的是**本地分支** 代码;
 
-* [git_pull.md](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_pull.md) 更新、合并指令： 我能合并**远程分支**的代码哟！
+* [git_pull.md](https://github.com/LittleChell/git/tree/master/contents/git_pull.md) 更新、合并指令： 我能合并**远程分支**的代码哟！

@@ -19,7 +19,7 @@ ssh-keygen -t rsa -C "zhiqiangxiao@sohu-inc.com"
 
 * 然后到**.ssh**下面将**id_rsa.pub**里的内容复制出来,粘贴到github个人中心的账户设置的ssh key中；
 
-![粘贴位置截图](https://github.com/wteam-xq/testGit/blob/master/learn_log/log_img/git_ssh_s1.png)
+![粘贴位置截图](https://github.com/LittleChell/git/tree/master/contents/img/git_ssh_s1.png)
 
 ------------------------------
 
@@ -75,16 +75,16 @@ id_rsa  id_rsa.pub
 cat ~/.ssh/id_rsa.pub
 ```
 
-![粘贴位置截图](https://github.com/wteam-xq/testGit/blob/master/learn_log/log_img/git_ssh_s1.png)
+![粘贴位置截图](https://github.com/LittleChell/git/tree/master/contents/img/git_ssh_s1.png)
 
 ------------------------------
 
 ## 相关指令：
-* [git_push.md](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_push.md) 提交代码至远程仓库指令： 配置了SSH使用我就不用输入账号密码了！
+* [git_push.md](https://github.com/LittleChell/git/tree/master/contents/git_push.md) 提交代码至远程仓库指令： 配置了SSH使用我就不用输入账号密码了！
 
-* [git_clone.md](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_clone.md) 拉取线上代码指令： LS不用输入密码的前提：使用我时用了SSH协议！
+* [git_clone.md](https://github.com/LittleChell/git/tree/master/contents/git_clone.md) 拉取线上代码指令： LS不用输入密码的前提：使用我时用了SSH协议！
 
-![SSH协议截图](https://github.com/wteam-xq/testGit/blob/master/learn_log/log_img/git_ssh_s2.png)
+![SSH协议截图](https://github.com/LittleChell/git/tree/master/contents/img/git_ssh_s2.png)
 
 
 

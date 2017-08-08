@@ -57,4 +57,4 @@
 * 然后再次git status查看状态，file1文件不再显示状态。
 
 ## 相关指令：
-* [git_status.md](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_status.md)  查看当前代码状态指令： 我是万能的检测器！
+* [git_status.md](https://github.com/LittleChell/git/tree/master/contents/git_status.md)  查看当前代码状态指令： 我是万能的检测器！

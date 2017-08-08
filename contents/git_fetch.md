@@ -12,4 +12,4 @@
 * 更新指定远程分支代码到本地
 
 ## 相关指令：
-* [git pull](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_pull.md) 更新合并代码指令： 我比`git fetch`方便，更实用一些;
+* [git pull](https://github.com/LittleChell/git/tree/master/contents/git_pull.md) 更新合并代码指令： 我比`git fetch`方便，更实用一些;

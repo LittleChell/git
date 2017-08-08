@@ -21,4 +21,4 @@
     * 当迁移改动出现冲突时，撤销`git  cherry-pick`指令；
 
 ## 相关指令：
-* [git checkout](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_checkout.md) 切换分支： 使用`git cherry-pick`前一般先使用我切换分支;
+* [git checkout](https://github.com/LittleChell/git/tree/master/contents/git_checkout.md) 切换分支： 使用`git cherry-pick`前一般先使用我切换分支;

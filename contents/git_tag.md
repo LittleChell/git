@@ -41,4 +41,4 @@
 
 
 ## 相关指令：
-* [git_branch.md](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_branch.md)   分支相关操作指令： 欢迎分支指令新同学！
+* [git_branch.md](https://github.com/LittleChell/git/tree/master/contents/git_branch.md)   分支相关操作指令： 欢迎分支指令新同学！

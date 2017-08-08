@@ -22,5 +22,5 @@
     * 强行移除修改后文件夹(从暂存区和工作区中删除)
 
 ## 相关指令：
-* [git_status.md](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_status.md)  查看当前代码状态指令： 使用我这个指令，可以确认删除是否成功。
-* [git_clean.md](https://github.com/wteam-xq/testGit/blob/master/learn_log/git_clean.md)  删除未跟踪文件指令： 我两功能差不多。
+* [git_status.md](https://github.com/LittleChell/git/tree/master/contents/git_status.md)  查看当前代码状态指令： 使用我这个指令，可以确认删除是否成功。
+* [git_clean.md](https://github.com/LittleChell/git/tree/master/contents/git_clean.md)  删除未跟踪文件指令： 我两功能差不多。
