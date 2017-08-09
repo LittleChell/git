@@ -71,6 +71,9 @@
 
 
 ## git 其他：
+### [FAQ.md](https://github.com/LittleChell/git/tree/master/contents/FAQ.md)   
+* git 常见问题总结
+
 ### [git_ignore.md](https://github.com/LittleChell/git/tree/master/contents/git_ignore.md)   
 * git 忽略文件配置 小总结
 
