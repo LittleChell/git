@@ -83,6 +83,9 @@
 ### [git_tips.md](https://github.com/LittleChell/git/tree/master/contents/git_tips.md)   
 * git 使用小建议
 
+### [git_methods.md](https://github.com/LittleChell/git/tree/master/contents/methods.md)   
+* git 常见事例指南
+
 ## 友情链接：
 * [git常用指令排行榜](http://www.kancloud.cn/wteamxq/git_rank/276484)
 * [git图解：代码区域总结](https://zhuanlan.zhihu.com/p/20175919)
