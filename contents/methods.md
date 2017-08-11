@@ -2,15 +2,22 @@
 
 ### 回退操作
 
+---
+
 #####
-[Undoing a git 使用git reflog查看commit ID执行回退操作1 _reflog_-_stackoverflow_](https://stackoverflow.com/questions/134882/undoing-a-git-rebase)
+**Undoing a git 使用git reflog查看commit ID执行回退操作**<br>
+[1-_reflog_-_stackoverflow_](https://stackoverflow.com/questions/134882/undoing-a-git-rebase)<br>
+[2-_reflog_-_stackoverflow_](https://stackoverflow.com/questions/2510276/undoing-git-reset)
 
-[Undoing a git 使用git reflog查看commit ID执行回退操作2 _reflog_-_stackoverflow_](https://stackoverflow.com/questions/2510276/undoing-git-reset)
+**Revert Git repository to a previous commit git会退到先前的commit**<br>
+[ _revert_-_reset_-_stackoverflow_](https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit)
 
-[Revert Git repository to a previous commit git会退到先前的commit _revert_-_reset_-_stackoverflow_](https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit)
-	
-git checkout --.可以撤销当前路径下面所有已改动但未放到暂存区的文件。<br>
-git checkout filename1 filename2 ... 可以撤销未放到暂存区的文件<br>
+**撤销unstaged的文件-git checkout**<br> 	
+	git checkout --.可以撤销当前路径下面所有已改动但未放到暂存区的文件。<br>
+	git checkout filename1 filename2 ... 可以撤销未放到暂存区的文件<br>
 
+**撤销staged的文件-git reset**<br>
 git reset	可以撤销已加入到暂存区的所有文件使之回到未加入暂存区时候的状态<br>
 git reset filename1 filename2 ... 可以撤销已加入到暂存区的文件使之回到未加入暂存区时候的状态
+
+---
