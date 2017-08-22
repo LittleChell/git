@@ -10,6 +10,9 @@
 * git log
 	* 查看commit提交历史, 查看commit id方便回退；
 
+* git log -p filename
+	* 查看文件的每一个详细的历史修改，如果没有-p选项，只显示提交记录，不显示文件内容修改，git log -p -3 filename 显示最近的3次提交。
+
 * git log --pretty=oneline
 	* 简短形式显示 commit 提交历史；(只显示每一次commit的id以及注释)
 

@@ -7,7 +7,7 @@
 
 2.	#####基于远程分支创建本地分支
 
-	git checkout -b <localbranch> origin/<remotebranch>
+	git checkout -b <localbranch\> origin/<remotebranch\>
 
 3.	#####删除远程分支
 
