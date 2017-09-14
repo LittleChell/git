@@ -20,4 +20,10 @@
 git reset	可以撤销已加入到暂存区的所有文件使之回到未加入暂存区时候的状态<br>
 git reset filename1 filename2 ... 可以撤销已加入到暂存区的文件使之回到未加入暂存区时候的状态
 
+**回退某个文件到指定的commit-git checkout**<br>
+git checkout <commit hash\> -- path/file1  path/file2 ...
+注意：这里checkout是使文件回到其放到暂存区的状态<br>回到之前的一个版本只需要在<commit hash\>后加上~1<br>
+git reset <commit hash\> <filename\>
+这里是直接回退文件到那个版本，可以加上--hard
+
 ---

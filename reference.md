@@ -39,6 +39,9 @@
 ### [git_revert.md](https://github.com/LittleChell/git/tree/master/contents/git_revert.md)   
 * git 代码撤销（回退）小总结(撤销某次commit的改动，生成一个新的commit)
 
+### [git_show.md](https://github.com/LittleChell/git/tree/master/contents/git_show.md)
+* git 查看commit代码变化总结
+
 ### [git_diff.md](https://github.com/LittleChell/git/tree/master/contents/git_diff.md)
 * git 查看某一文件代码改动、对比版本代码变化总结
 
