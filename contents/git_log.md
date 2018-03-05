@@ -20,6 +20,9 @@
 * git log --oneline --graph --decorate
 	* 简短形式显示当前分支提交记录以及源分支信息（查看当前分支是基于哪个分支创建）；
 
+* git log --left-right branchA...branchB
+	* 返回两个分支间的commit差异；
+
 * git reflog
 	* 查看本地仓库所有改变列表（git reset的每次操作都会记录在该列表）
 
