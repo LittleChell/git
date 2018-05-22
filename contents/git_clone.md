@@ -17,7 +17,10 @@ $ git clone rsync://example.com/path/to/repo.git/
 ```
 
 * 常用的有HTTP 和 SSH协议，建议SSH协议，因为使用 HTTP方式，每次提交代码都得输入用户账号密码，会相当麻烦；
+可以通过git remote set-url origin url(git clone的url)把原来的clone方式改成其它方式
+
 * [SSH 协议配置教程](https://git-scm.com/book/zh/ch4-3.html)
+
 
 ## git clone 常用指令：
 * git clone git@github.com:wteam-xq/testGit.git
